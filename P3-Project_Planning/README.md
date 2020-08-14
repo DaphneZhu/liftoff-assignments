@@ -8,12 +8,19 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+![](/P3-Project_Planning/IMG_9738.jpg)
+![](/P3-Project_Planning/IMG_9739.jpg)
+![](/P3-Project_Planning/IMG_9740.jpg)
+![](/P3-Project_Planning/IMG_9747.jpg)
+![](/P3-Project_Planning/IMG_9748.jpg)
+![](/P3-Project_Planning/IMG_9749.jpg)
+![](/P3-Project_Planning/IMG_9750.jpg)
+![](/P3-Project_Planning/IMG_9751.jpg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/eGg61bJB/learning-progress-tracker
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/DaphneZhu/liftoff-assignments-daphne.git
